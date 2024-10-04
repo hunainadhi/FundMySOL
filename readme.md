@@ -4,12 +4,23 @@ FundYourSOL is a decentralized crowdfunding platform built on the Solana blockch
 
 ## Table of Contents
 
+- [Project Status](#project-status)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Project Status
+
+This project is currently in progress. As of now, the following features have been implemented:
+
+- **Campaign Creation**: Users can create new fundraising campaigns.
+- **User Registration**: Users can register to participate in campaigns.
+
+Future updates will include additional features and improvements.
+
 
 ## Features
 
